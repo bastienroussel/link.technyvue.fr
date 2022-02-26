@@ -8,7 +8,7 @@ A little URL shortener of your own.
 
 ## Example
 
-[linkylinky.netlify.com](https://linkylinky.netlify.com)
+[link.technyvue.fr](https://link.technyvue.fr)
 
 
 ## Description
